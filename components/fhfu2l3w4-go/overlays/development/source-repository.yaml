@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fhfu2l3w4-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fhfu2l3w4-go
